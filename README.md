@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sebt08 👋</h1>
+<h1 align="center">Hi, I'm Sebt 👋</h1>
 
 ### 🔵 ┆ Discord
 
@@ -6,7 +6,7 @@
 
 ### 📊 ┆ Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Sebt08&show_icons=true&include_all_commits&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=iSebt&show_icons=true&include_all_commits&theme=dracula" />
 
 ### 🧠  ┆ Languages
 
